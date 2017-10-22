@@ -1,2 +1,2 @@
-# finddiff
-A tool to find and generate only differences between two files
+# fdiff
+A tool to compare and generate patch two files/folders.
